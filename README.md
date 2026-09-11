@@ -1,8 +1,7 @@
 README - Fiber Photometry and Behavior Analysis (TRPV4 Project)
 
 Author: Tianqi Xu
-Original date: 2025-07
-Documentation updated: 2026-09-09
+Date updated: 2026-09-09
 
 1. Project Overview
 
